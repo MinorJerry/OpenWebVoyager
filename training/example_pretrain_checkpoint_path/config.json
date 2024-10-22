@@ -1,0 +1,30 @@
+{
+  "architectures": [
+    "Idefics2ForConditionalGeneration"
+  ],
+  "image_token_id": 32001,
+  "model_type": "idefics2",
+  "perceiver_config": {
+    "model_type": "idefics2"
+  },
+  "text_config": {
+    "max_position_embeddings": 32768,
+    "model_type": "mistral",
+    "pad_token_id": 0,
+    "rms_norm_eps": 1e-05,
+    "vocab_size": 32003
+  },
+  "tie_word_embeddings": false,
+  "torch_dtype": "float32",
+  "transformers_version": "4.39.0.dev0",
+  "use_cache": true,
+  "vision_config": {
+    "hidden_size": 1152,
+    "image_size": 980,
+    "intermediate_size": 4304,
+    "model_type": "idefics2",
+    "num_attention_heads": 16,
+    "num_hidden_layers": 27,
+    "patch_size": 14
+  }
+}

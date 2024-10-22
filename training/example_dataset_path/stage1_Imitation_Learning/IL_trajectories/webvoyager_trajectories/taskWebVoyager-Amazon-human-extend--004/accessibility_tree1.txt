@@ -1,0 +1,10 @@
+[1] RootWebArea 'Amazon.com' focused: True
+	[2] heading 'Enter the characters you see below'
+	[3] StaticText "Sorry, we just need to make sure you're not a robot. For best results, please make sure your browser is accepting cookies."
+	[4] heading 'Type the characters you see in this image:'
+	[5] link 'Try different image'
+	[6] textbox 'Type characters' required: False
+	[7] button 'Continue shopping'
+	[8] link 'Conditions of Use'
+	[9] link 'Privacy Policy'
+	[10] StaticText '© 1996-2014, Amazon.com, Inc. or its affiliates '

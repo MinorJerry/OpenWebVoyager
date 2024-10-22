@@ -1,0 +1,4134 @@
+{
+  "1": {
+    "backendDOMNodeId": 6580,
+    "childIds": [
+      "3921"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 144
+    },
+    "frameId": "6A1509E73B88B28A8F1C80DBE78A7FCC",
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "attribute": "aria-label",
+          "superseded": true,
+          "type": "attribute"
+        },
+        {
+          "nativeSource": "title",
+          "type": "relatedElement",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon.com: Amazon Basics: Deals"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Amazon.com: Amazon Basics: Deals"
+    },
+    "nodeId": "3920",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      },
+      {
+        "name": "focused",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "internalRole",
+      "value": "RootWebArea"
+    },
+    "union_bound": [
+      0.0,
+      0.0,
+      10.0,
+      10.0
+    ]
+  },
+  "2": {
+    "backendDOMNodeId": 6886,
+    "childIds": [
+      "3938"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Skip to main content"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Skip to main content"
+    },
+    "nodeId": "3929",
+    "parentId": "3923",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      7,
+      10,
+      151,
+      36
+    ]
+  },
+  "3": {
+    "backendDOMNodeId": 6894,
+    "childIds": [
+      "3951",
+      "3954"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 130
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "navigation"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "navigation"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "navigation"
+    },
+    "nodeId": "3939",
+    "parentId": "3930",
+    "properties": [],
+    "role": {
+      "type": "role",
+      "value": "navigation"
+    },
+    "union_bound": [
+      0,
+      0,
+      1009,
+      99
+    ]
+  },
+  "4": {
+    "backendDOMNodeId": 6905,
+    "childIds": [
+      "4339"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Amazon"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon"
+          }
+        },
+        {
+          "superseded": true,
+          "type": "contents"
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Amazon"
+    },
+    "nodeId": "4192",
+    "parentId": "4023",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      2,
+      5,
+      113,
+      50
+    ]
+  },
+  "5": {
+    "backendDOMNodeId": 6922,
+    "childIds": [
+      "4471",
+      "4472"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Delivering to Santaclara 95050 Update location"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Delivering to Santaclara 95050 Update location"
+    },
+    "nodeId": "4342",
+    "parentId": "4193",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      114,
+      5,
+      206,
+      50
+    ]
+  },
+  "6": {
+    "backendDOMNodeId": 6969,
+    "childIds": [],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 158
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "All"
+          }
+        }
+      ],
+      "type": "computedString",
+      "value": "All"
+    },
+    "nodeId": "4917",
+    "parentId": "4820",
+    "properties": [],
+    "role": {
+      "type": "internalRole",
+      "value": "StaticText"
+    },
+    "union_bound": [
+      336,
+      23,
+      14,
+      15
+    ]
+  },
+  "7": {
+    "backendDOMNodeId": 7170,
+    "childIds": [
+      "4788",
+      "4789"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 170
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Search Amazon"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Search Amazon"
+          }
+        },
+        {
+          "nativeSource": "labelfor",
+          "nativeSourceValue": {
+            "relatedNodes": [
+              {
+                "backendDOMNodeId": 7167,
+                "text": ""
+              }
+            ],
+            "type": "nodeList"
+          },
+          "superseded": true,
+          "type": "relatedElement",
+          "value": {
+            "type": "computedString",
+            "value": ""
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        },
+        {
+          "attribute": "placeholder",
+          "attributeValue": {
+            "type": "string",
+            "value": "Search Amazon"
+          },
+          "superseded": true,
+          "type": "placeholder",
+          "value": {
+            "type": "computedString",
+            "value": "Search Amazon"
+          }
+        },
+        {
+          "attribute": "aria-placeholder",
+          "superseded": true,
+          "type": "placeholder"
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Search Amazon"
+    },
+    "nodeId": "4746",
+    "parentId": "4474",
+    "properties": [
+      {
+        "name": "invalid",
+        "value": {
+          "type": "token",
+          "value": "false"
+        }
+      },
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      },
+      {
+        "name": "editable",
+        "value": {
+          "type": "token",
+          "value": "plaintext"
+        }
+      },
+      {
+        "name": "settable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      },
+      {
+        "name": "multiline",
+        "value": {
+          "type": "boolean",
+          "value": false
+        }
+      },
+      {
+        "name": "readonly",
+        "value": {
+          "type": "boolean",
+          "value": false
+        }
+      },
+      {
+        "name": "required",
+        "value": {
+          "type": "boolean",
+          "value": false
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "textbox"
+    },
+    "union_bound": [
+      377,
+      11,
+      228,
+      38
+    ]
+  },
+  "8": {
+    "backendDOMNodeId": 6583,
+    "childIds": [
+      "4790"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 88
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Go"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Go"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Go"
+    },
+    "nodeId": "4747",
+    "parentId": "4476",
+    "properties": [],
+    "role": {
+      "type": "role",
+      "value": "generic"
+    },
+    "union_bound": [
+      605,
+      10,
+      45,
+      40
+    ]
+  },
+  "9": {
+    "backendDOMNodeId": 7180,
+    "childIds": [
+      "4884"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 9
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "nativeSource": "label",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "value",
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Go"
+          }
+        },
+        {
+          "superseded": true,
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Go"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Go"
+    },
+    "nodeId": "4790",
+    "parentId": "4747",
+    "properties": [
+      {
+        "name": "invalid",
+        "value": {
+          "type": "token",
+          "value": "false"
+        }
+      },
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "button"
+    },
+    "union_bound": [
+      605,
+      10,
+      45,
+      40
+    ]
+  },
+  "10": {
+    "backendDOMNodeId": 7197,
+    "childIds": [
+      "4346"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Choose a language for shopping."
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Choose a language for shopping."
+          }
+        },
+        {
+          "superseded": true,
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "EN"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Choose a language for shopping."
+    },
+    "nodeId": "4200",
+    "parentId": "4027",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      655,
+      5,
+      73,
+      50
+    ]
+  },
+  "11": {
+    "backendDOMNodeId": 7208,
+    "childIds": [],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 158
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "EN"
+          }
+        }
+      ],
+      "type": "computedString",
+      "value": "EN"
+    },
+    "nodeId": "4791",
+    "parentId": "4749",
+    "properties": [],
+    "role": {
+      "type": "internalRole",
+      "value": "StaticText"
+    },
+    "union_bound": [
+      691,
+      26,
+      18,
+      17
+    ]
+  },
+  "12": {
+    "backendDOMNodeId": 6596,
+    "childIds": [
+      "4347",
+      "4348"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Hello, sign in Account & Lists"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Hello, sign in Account & Lists"
+    },
+    "nodeId": "4201",
+    "parentId": "4027",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      728,
+      5,
+      139,
+      50
+    ]
+  },
+  "13": {
+    "backendDOMNodeId": 7226,
+    "childIds": [
+      "4349",
+      "4350"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Returns & Orders"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Returns & Orders"
+    },
+    "nodeId": "4202",
+    "parentId": "4027",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      867,
+      5,
+      80,
+      50
+    ]
+  },
+  "14": {
+    "backendDOMNodeId": 7236,
+    "childIds": [
+      "4351"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "0 items in cart"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "0 items in cart"
+          }
+        },
+        {
+          "superseded": true,
+          "type": "contents"
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "0 items in cart"
+    },
+    "nodeId": "4203",
+    "parentId": "4027",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      947,
+      5,
+      59,
+      50
+    ]
+  },
+  "15": {
+    "backendDOMNodeId": 7484,
+    "childIds": [
+      "4221",
+      "4222"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 9
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Open Menu"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Open Menu"
+          }
+        },
+        {
+          "superseded": true,
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "All"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Open Menu"
+    },
+    "nodeId": "4120",
+    "parentId": "3998",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "button"
+    },
+    "union_bound": [
+      1,
+      60,
+      59,
+      39
+    ]
+  },
+  "16": {
+    "backendDOMNodeId": 7488,
+    "childIds": [],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 158
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "All"
+          }
+        }
+      ],
+      "type": "computedString",
+      "value": "All"
+    },
+    "nodeId": "4358",
+    "parentId": "4222",
+    "properties": [],
+    "role": {
+      "type": "internalRole",
+      "value": "StaticText"
+    },
+    "union_bound": [
+      32,
+      70.5,
+      19,
+      17
+    ]
+  },
+  "17": {
+    "backendDOMNodeId": 7513,
+    "childIds": [
+      "4512"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Medical Care"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Medical Care"
+    },
+    "nodeId": "4360",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      60,
+      65,
+      110,
+      28
+    ]
+  },
+  "18": {
+    "backendDOMNodeId": 7518,
+    "childIds": [
+      "4514"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Best Sellers"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Best Sellers"
+    },
+    "nodeId": "4361",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      170,
+      65,
+      95,
+      28
+    ]
+  },
+  "19": {
+    "backendDOMNodeId": 7521,
+    "childIds": [
+      "4515"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Amazon Basics"
+    },
+    "nodeId": "4362",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      265,
+      65,
+      113,
+      28
+    ]
+  },
+  "20": {
+    "backendDOMNodeId": 7524,
+    "childIds": [
+      "4517"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Prime"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Prime"
+    },
+    "nodeId": "4363",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      378,
+      65,
+      68,
+      28
+    ]
+  },
+  "21": {
+    "backendDOMNodeId": 7529,
+    "childIds": [
+      "4519"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "New Releases"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "New Releases"
+    },
+    "nodeId": "4364",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      446,
+      65,
+      107,
+      28
+    ]
+  },
+  "22": {
+    "backendDOMNodeId": 7532,
+    "childIds": [
+      "4520"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Today's Deals"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Today's Deals"
+    },
+    "nodeId": "4365",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      553,
+      65,
+      106,
+      28
+    ]
+  },
+  "23": {
+    "backendDOMNodeId": 7535,
+    "childIds": [
+      "4521"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Music"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Music"
+    },
+    "nodeId": "4366",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      659,
+      65,
+      53,
+      28
+    ]
+  },
+  "24": {
+    "backendDOMNodeId": 7538,
+    "childIds": [
+      "4523"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Groceries"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Groceries"
+    },
+    "nodeId": "4367",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      712,
+      65,
+      90,
+      28
+    ]
+  },
+  "25": {
+    "backendDOMNodeId": 7543,
+    "childIds": [
+      "4525"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Customer Service"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Customer Service"
+    },
+    "nodeId": "4368",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      802,
+      65,
+      130,
+      28
+    ]
+  },
+  "26": {
+    "backendDOMNodeId": 7546,
+    "childIds": [
+      "4526"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Home"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Amazon Home"
+    },
+    "nodeId": "4369",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      60,
+      104,
+      113,
+      28
+    ]
+  },
+  "27": {
+    "backendDOMNodeId": 7549,
+    "childIds": [
+      "4527"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Registry"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Registry"
+    },
+    "nodeId": "4370",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      173,
+      104,
+      70,
+      28
+    ]
+  },
+  "28": {
+    "backendDOMNodeId": 7552,
+    "childIds": [
+      "4528"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Books"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Books"
+    },
+    "nodeId": "4371",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      243,
+      104,
+      56,
+      28
+    ]
+  },
+  "29": {
+    "backendDOMNodeId": 7555,
+    "childIds": [
+      "4530"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Gift Cards"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Gift Cards"
+    },
+    "nodeId": "4372",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      299,
+      104,
+      94,
+      28
+    ]
+  },
+  "30": {
+    "backendDOMNodeId": 7560,
+    "childIds": [
+      "4532"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Pharmacy"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Pharmacy"
+    },
+    "nodeId": "4373",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      393,
+      104,
+      79,
+      28
+    ]
+  },
+  "31": {
+    "backendDOMNodeId": 7563,
+    "childIds": [
+      "4533"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Smart Home"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Smart Home"
+    },
+    "nodeId": "4374",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      472,
+      104,
+      99,
+      28
+    ]
+  },
+  "32": {
+    "backendDOMNodeId": 7566,
+    "childIds": [
+      "4534"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Fashion"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Fashion"
+    },
+    "nodeId": "4375",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      571,
+      104,
+      66,
+      28
+    ]
+  },
+  "33": {
+    "backendDOMNodeId": 7569,
+    "childIds": [
+      "4535"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Toys & Games"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Toys & Games"
+    },
+    "nodeId": "4376",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      637,
+      104,
+      112,
+      28
+    ]
+  },
+  "34": {
+    "backendDOMNodeId": 7572,
+    "childIds": [
+      "4536"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Luxury Stores"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Luxury Stores"
+    },
+    "nodeId": "4377",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      749,
+      104,
+      106,
+      28
+    ]
+  },
+  "35": {
+    "backendDOMNodeId": 7575,
+    "childIds": [
+      "4537"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Sell"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Sell"
+    },
+    "nodeId": "4378",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      855,
+      104,
+      42,
+      28
+    ]
+  },
+  "36": {
+    "backendDOMNodeId": 7578,
+    "childIds": [
+      "4538"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Find a Gift"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Find a Gift"
+    },
+    "nodeId": "4379",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      897,
+      104,
+      83,
+      28
+    ]
+  },
+  "37": {
+    "backendDOMNodeId": 7581,
+    "childIds": [
+      "4539"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Beauty & Personal Care"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Beauty & Personal Care"
+    },
+    "nodeId": "4380",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      60,
+      143,
+      168,
+      28
+    ]
+  },
+  "38": {
+    "backendDOMNodeId": 7584,
+    "childIds": [
+      "4540"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Automotive"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Automotive"
+    },
+    "nodeId": "4381",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      228,
+      143,
+      94,
+      28
+    ]
+  },
+  "39": {
+    "backendDOMNodeId": 7587,
+    "childIds": [
+      "4541"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Home Improvement"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Home Improvement"
+    },
+    "nodeId": "4382",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      322,
+      143,
+      148,
+      28
+    ]
+  },
+  "40": {
+    "backendDOMNodeId": 7590,
+    "childIds": [
+      "4542"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Baby"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Baby"
+    },
+    "nodeId": "4383",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      470,
+      143,
+      48,
+      28
+    ]
+  },
+  "41": {
+    "backendDOMNodeId": 7593,
+    "childIds": [
+      "4543"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Computers"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Computers"
+    },
+    "nodeId": "4384",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      518,
+      143,
+      89,
+      28
+    ]
+  },
+  "42": {
+    "backendDOMNodeId": 7596,
+    "childIds": [
+      "4544"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Pet Supplies"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Pet Supplies"
+    },
+    "nodeId": "4385",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      607,
+      143,
+      98,
+      28
+    ]
+  },
+  "43": {
+    "backendDOMNodeId": 7599,
+    "childIds": [
+      "4545"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Household, Health & Baby Care"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Household, Health & Baby Care"
+    },
+    "nodeId": "4386",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      705,
+      143,
+      216,
+      28
+    ]
+  },
+  "44": {
+    "backendDOMNodeId": 7602,
+    "childIds": [
+      "4546"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Sports & Outdoors"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Sports & Outdoors"
+    },
+    "nodeId": "4387",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      60,
+      182,
+      140,
+      28
+    ]
+  },
+  "45": {
+    "backendDOMNodeId": 7605,
+    "childIds": [
+      "4547"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Video Games"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Video Games"
+    },
+    "nodeId": "4388",
+    "parentId": "4223",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      200,
+      182,
+      102,
+      28
+    ]
+  },
+  "46": {
+    "backendDOMNodeId": 7677,
+    "childIds": [
+      "4918"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics home page"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Amazon Basics home page"
+    },
+    "nodeId": "4887",
+    "parentId": "4813",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      15,
+      310.796875,
+      95,
+      75
+    ]
+  },
+  "47": {
+    "backendDOMNodeId": 6600,
+    "childIds": [
+      "4996"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 130
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "breadcrumbs"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "breadcrumbs"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "breadcrumbs"
+    },
+    "nodeId": "4920",
+    "parentId": "4889",
+    "properties": [],
+    "role": {
+      "type": "role",
+      "value": "navigation"
+    },
+    "union_bound": [
+      130,
+      314.296875,
+      864,
+      23
+    ]
+  },
+  "48": {
+    "backendDOMNodeId": 7685,
+    "childIds": [
+      "5255",
+      "5257"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 115
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Amazon Basics breadcrumb"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics breadcrumb"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Amazon Basics breadcrumb"
+    },
+    "nodeId": "5147",
+    "parentId": "4996",
+    "properties": [
+      {
+        "name": "level",
+        "value": {
+          "type": "integer",
+          "value": 1
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "listitem"
+    },
+    "union_bound": [
+      130,
+      318.296875,
+      111,
+      19
+    ]
+  },
+  "49": {
+    "backendDOMNodeId": 7687,
+    "childIds": [
+      "5631"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Amazon Basics"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics"
+          }
+        },
+        {
+          "superseded": true,
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Amazon Basics"
+    },
+    "nodeId": "5255",
+    "parentId": "5147",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      134,
+      318.296875,
+      87,
+      15
+    ]
+  },
+  "50": {
+    "backendDOMNodeId": 7691,
+    "childIds": [
+      "5258"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 115
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Deals breadcrumb"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Deals breadcrumb"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Deals breadcrumb"
+    },
+    "nodeId": "5148",
+    "parentId": "4996",
+    "properties": [
+      {
+        "name": "level",
+        "value": {
+          "type": "integer",
+          "value": 1
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "listitem"
+    },
+    "union_bound": [
+      241,
+      318.296875,
+      31,
+      15
+    ]
+  },
+  "51": {
+    "backendDOMNodeId": 7692,
+    "childIds": [
+      "5633"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Deals"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Deals"
+          }
+        },
+        {
+          "superseded": true,
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Deals"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Deals"
+    },
+    "nodeId": "5258",
+    "parentId": "5148",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      241,
+      318.296875,
+      31,
+      15
+    ]
+  },
+  "52": {
+    "backendDOMNodeId": 7700,
+    "childIds": [
+      "7254"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 9
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Follow Amazon Basics"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Follow Amazon Basics"
+          }
+        },
+        {
+          "nativeSource": "label",
+          "superseded": true,
+          "type": "relatedElement"
+        },
+        {
+          "superseded": true,
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "+ Follow"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Follow Amazon Basics"
+    },
+    "nodeId": "6982",
+    "parentId": "5634",
+    "properties": [
+      {
+        "name": "invalid",
+        "value": {
+          "type": "token",
+          "value": "false"
+        }
+      },
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "button"
+    },
+    "union_bound": [
+      131,
+      348.796875,
+      92,
+      28
+    ]
+  },
+  "53": {
+    "backendDOMNodeId": 7701,
+    "childIds": [],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 158
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "+ Follow"
+          }
+        }
+      ],
+      "type": "computedString",
+      "value": "+ Follow"
+    },
+    "nodeId": "7254",
+    "parentId": "6982",
+    "properties": [],
+    "role": {
+      "type": "internalRole",
+      "value": "StaticText"
+    },
+    "union_bound": [
+      151.5,
+      354.796875,
+      51,
+      16
+    ]
+  },
+  "54": {
+    "backendDOMNodeId": 6603,
+    "childIds": [
+      "5635"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 9
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Share"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Share"
+          }
+        },
+        {
+          "nativeSource": "label",
+          "superseded": true,
+          "type": "relatedElement"
+        },
+        {
+          "superseded": true,
+          "type": "contents"
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Share"
+    },
+    "nodeId": "5261",
+    "parentId": "5150",
+    "properties": [
+      {
+        "name": "invalid",
+        "value": {
+          "type": "token",
+          "value": "false"
+        }
+      },
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "button"
+    },
+    "union_bound": [
+      239,
+      343.296875,
+      36,
+      39
+    ]
+  },
+  "55": {
+    "backendDOMNodeId": 6593,
+    "childIds": [
+      "5636"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 130
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Amazon Basics Navigation Bar"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics Navigation Bar"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Amazon Basics Navigation Bar"
+    },
+    "nodeId": "5263",
+    "parentId": "5152",
+    "properties": [],
+    "role": {
+      "type": "role",
+      "value": "navigation"
+    },
+    "union_bound": [
+      280,
+      343.796875,
+      429,
+      38
+    ]
+  },
+  "56": {
+    "backendDOMNodeId": 7711,
+    "childIds": [
+      "7428"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "HOME"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "HOME"
+    },
+    "nodeId": "7255",
+    "parentId": "6985",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      284,
+      351.796875,
+      67,
+      27
+    ]
+  },
+  "57": {
+    "backendDOMNodeId": 7716,
+    "childIds": [
+      "7430"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "NEW ARRIVALS"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "NEW ARRIVALS"
+    },
+    "nodeId": "7256",
+    "parentId": "6986",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      351,
+      351.796875,
+      131,
+      27
+    ]
+  },
+  "58": {
+    "backendDOMNodeId": 7720,
+    "childIds": [
+      "7432"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "DEALS"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "DEALS"
+    },
+    "nodeId": "7257",
+    "parentId": "6987",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      482,
+      351.796875,
+      74,
+      27
+    ]
+  },
+  "59": {
+    "backendDOMNodeId": 8057,
+    "childIds": [
+      "7474",
+      "7475"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 9
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "nativeSource": "label",
+          "type": "relatedElement"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "MORE"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "MORE"
+    },
+    "nodeId": "7287",
+    "parentId": "7007",
+    "properties": [
+      {
+        "name": "invalid",
+        "value": {
+          "type": "token",
+          "value": "false"
+        }
+      },
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "button"
+    },
+    "union_bound": [
+      556,
+      351.796875,
+      77,
+      27
+    ]
+  },
+  "60": {
+    "backendDOMNodeId": 8065,
+    "childIds": [
+      "7008"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 9
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Search"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Search"
+          }
+        },
+        {
+          "nativeSource": "label",
+          "superseded": true,
+          "type": "relatedElement"
+        },
+        {
+          "superseded": true,
+          "type": "contents"
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Search"
+    },
+    "nodeId": "5637",
+    "parentId": "5265",
+    "properties": [
+      {
+        "name": "invalid",
+        "value": {
+          "type": "token",
+          "value": "false"
+        }
+      },
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "button"
+    },
+    "union_bound": [
+      710,
+      346.796875,
+      36,
+      32
+    ]
+  },
+  "61": {
+    "backendDOMNodeId": 6606,
+    "childIds": [
+      "5641"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 153
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "nativeSource": "label",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "title",
+          "type": "attribute"
+        },
+        {
+          "attribute": "placeholder",
+          "attributeValue": {
+            "type": "string",
+            "value": "Search all Amazon Basics"
+          },
+          "type": "placeholder",
+          "value": {
+            "type": "computedString",
+            "value": "Search all Amazon Basics"
+          }
+        },
+        {
+          "attribute": "aria-placeholder",
+          "superseded": true,
+          "type": "placeholder"
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Search all Amazon Basics"
+    },
+    "nodeId": "5266",
+    "parentId": "5154",
+    "properties": [
+      {
+        "name": "invalid",
+        "value": {
+          "type": "token",
+          "value": "false"
+        }
+      },
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      },
+      {
+        "name": "editable",
+        "value": {
+          "type": "token",
+          "value": "plaintext"
+        }
+      },
+      {
+        "name": "settable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "searchbox"
+    },
+    "union_bound": [
+      746,
+      346.796875,
+      215,
+      32
+    ]
+  },
+  "62": {
+    "backendDOMNodeId": 6607,
+    "childIds": [
+      "4815"
+    ],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 96
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "type": "contents",
+          "value": {
+            "type": "computedString",
+            "value": "Featured Deals"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Featured Deals"
+    },
+    "nodeId": "4779",
+    "parentId": "4551",
+    "properties": [
+      {
+        "name": "level",
+        "value": {
+          "type": "integer",
+          "value": 1
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "heading"
+    },
+    "union_bound": [
+      412.5,
+      443.296875,
+      184,
+      32
+    ]
+  },
+  "63": {
+    "backendDOMNodeId": 8100,
+    "childIds": [],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "description": {
+      "type": "computedString",
+      "value": "Amazon Basics Safety Glasses (Clear/Black), Anti-Fog, 12-pack (Previously AmazonCommercial brand)"
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Amazon Basics Safety Glasses (Clear/Black), Anti-Fog, 12-pack (Previously AmazonCommercial brand)"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics Safety Glasses (Clear/Black), Anti-Fog, 12-pack (Previously AmazonCommercial brand)"
+          }
+        },
+        {
+          "superseded": true,
+          "type": "contents"
+        },
+        {
+          "attribute": "title",
+          "attributeValue": {
+            "type": "string",
+            "value": "Amazon Basics Safety Glasses (Clear/Black), Anti-Fog, 12-pack (Previously AmazonCommercial brand)"
+          },
+          "superseded": true,
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics Safety Glasses (Clear/Black), Anti-Fog, 12-pack (Previously AmazonCommercial brand)"
+          }
+        }
+      ],
+      "type": "computedString",
+      "value": "Amazon Basics Safety Glasses (Clear/Black), Anti-Fog, 12-pack (Previously AmazonCommercial brand)"
+    },
+    "nodeId": "5002",
+    "parentId": "4890",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      12,
+      524.296875,
+      306.984375,
+      597.765625
+    ]
+  },
+  "64": {
+    "backendDOMNodeId": 8109,
+    "childIds": [],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 99
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "attribute": "alt",
+          "attributeValue": {
+            "type": "string",
+            "value": "Image of Amazon Basics Safety Glasses (Clear/Black), Anti-Fog, 12-pack (Previously AmazonCommercial brand)"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Image of Amazon Basics Safety Glasses (Clear/Black), Anti-Fog, 12-pack (Previously AmazonCommercial brand)"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Image of Amazon Basics Safety Glasses (Clear/Black), Anti-Fog, 12-pack (Previously AmazonCommercial brand)"
+    },
+    "nodeId": "5646",
+    "parentId": "5269",
+    "properties": [],
+    "role": {
+      "type": "role",
+      "value": "image"
+    },
+    "union_bound": [
+      21,
+      533.296875,
+      288.984375,
+      294
+    ]
+  },
+  "65": {
+    "backendDOMNodeId": 6609,
+    "childIds": [],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "description": {
+      "type": "computedString",
+      "value": "Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack"
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack"
+          }
+        },
+        {
+          "superseded": true,
+          "type": "contents"
+        },
+        {
+          "attribute": "title",
+          "attributeValue": {
+            "type": "string",
+            "value": "Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack"
+          },
+          "superseded": true,
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack"
+          }
+        }
+      ],
+      "type": "computedString",
+      "value": "Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack"
+    },
+    "nodeId": "5008",
+    "parentId": "4891",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      350.984375,
+      524.296875,
+      306.984375,
+      597.765625
+    ]
+  },
+  "66": {
+    "backendDOMNodeId": 8237,
+    "childIds": [],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 99
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "attribute": "alt",
+          "attributeValue": {
+            "type": "string",
+            "value": "Image of Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Image of Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Image of Amazon Basics Purple Washable School Glue Sticks, Dries Clear, 0.24-oz Stick, 30-Pack"
+    },
+    "nodeId": "5708",
+    "parentId": "5284",
+    "properties": [],
+    "role": {
+      "type": "role",
+      "value": "image"
+    },
+    "union_bound": [
+      359.984375,
+      533.296875,
+      288.984375,
+      294
+    ]
+  },
+  "67": {
+    "backendDOMNodeId": 8357,
+    "childIds": [],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 110
+    },
+    "description": {
+      "type": "computedString",
+      "value": "Amazon Basics Soft Grip Retractable Utility Knife with 3 Blades, Black/Silver"
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "attributeValue": {
+            "type": "string",
+            "value": "Amazon Basics Soft Grip Retractable Utility Knife with 3 Blades, Black/Silver"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics Soft Grip Retractable Utility Knife with 3 Blades, Black/Silver"
+          }
+        },
+        {
+          "superseded": true,
+          "type": "contents"
+        },
+        {
+          "attribute": "title",
+          "attributeValue": {
+            "type": "string",
+            "value": "Amazon Basics Soft Grip Retractable Utility Knife with 3 Blades, Black/Silver"
+          },
+          "superseded": true,
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Amazon Basics Soft Grip Retractable Utility Knife with 3 Blades, Black/Silver"
+          }
+        }
+      ],
+      "type": "computedString",
+      "value": "Amazon Basics Soft Grip Retractable Utility Knife with 3 Blades, Black/Silver"
+    },
+    "nodeId": "5014",
+    "parentId": "4892",
+    "properties": [
+      {
+        "name": "focusable",
+        "value": {
+          "type": "booleanOrUndefined",
+          "value": true
+        }
+      }
+    ],
+    "role": {
+      "type": "role",
+      "value": "link"
+    },
+    "union_bound": [
+      689.96875,
+      524.296875,
+      306.984375,
+      597.765625
+    ]
+  },
+  "68": {
+    "backendDOMNodeId": 8366,
+    "childIds": [],
+    "chromeRole": {
+      "type": "internalRole",
+      "value": 99
+    },
+    "ignored": false,
+    "name": {
+      "sources": [
+        {
+          "attribute": "aria-labelledby",
+          "type": "relatedElement"
+        },
+        {
+          "attribute": "aria-label",
+          "type": "attribute"
+        },
+        {
+          "attribute": "alt",
+          "attributeValue": {
+            "type": "string",
+            "value": "Image of Amazon Basics Soft Grip Retractable Utility Knife with 3 Blades, Black/Silver"
+          },
+          "type": "attribute",
+          "value": {
+            "type": "computedString",
+            "value": "Image of Amazon Basics Soft Grip Retractable Utility Knife with 3 Blades, Black/Silver"
+          }
+        },
+        {
+          "attribute": "title",
+          "superseded": true,
+          "type": "attribute"
+        }
+      ],
+      "type": "computedString",
+      "value": "Image of Amazon Basics Soft Grip Retractable Utility Knife with 3 Blades, Black/Silver"
+    },
+    "nodeId": "5770",
+    "parentId": "5299",
+    "properties": [],
+    "role": {
+      "type": "role",
+      "value": "image"
+    },
+    "union_bound": [
+      813.328125,
+      533.296875,
+      60.25,
+      294
+    ]
+  }
+}
