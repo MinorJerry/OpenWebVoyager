@@ -34,14 +34,14 @@ This repository contains the data, implementation, and models for our paper [Ope
 
 The dependencies are specified in detail in `requirements.txt`. To set up the environment for training and hosting models on **A100 GPU**, use the following commands:
   ```bash
-    conda create -n openwebv python=3.10.14
-    conda activate openwebv
-    pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu118
-    pip install -r requirements.txt
+  conda create -n openwebv python=3.10.14
+  conda activate openwebv
+  pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu118
+  pip install -r requirements.txt
   ```
 If you only need to collect GPT-4o-based trajectories, please refer to [WebVoyager](https://github.com/MinorJerry/WebVoyager) framework.
 
-**Recommendation**: you can host agent on A100 server and then have agent do web navigation on another os. On that os, it is not necessary to have a GPU, just install the following dependencies to run WebVoyager and send requests to the server: .
+**Hint**: you can host agent on A100 server and then have agent do web navigation on another os. On that os, it is not necessary to have a GPU, just install the following dependencies to run WebVoyager and send requests to the server: .
 
 ## Summary of Released Models and Data
 | Stage    | HF ckpt      |  
