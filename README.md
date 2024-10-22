@@ -32,24 +32,27 @@ This repository contains the data, implementation, and models for our paper [Ope
 
 ## Dependencies
 
-The dependencies are specified in detail in `requirements.txt`. To set up the environment for training and hosting models on **A100 GPU**, use the following commands:
+The dependencies are specified in detail in `requirements.txt`. To set up the environment for hosting agents on **A100 GPU** and performing web navigation, please use the following commands:
   ```bash
   conda create -n openwebv python=3.10.14
   conda activate openwebv
   pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu118
   pip install -r requirements.txt
   ```
-If you only need to collect GPT-4o-based trajectories, please refer to [WebVoyager](https://github.com/MinorJerry/WebVoyager) framework.
 
-**Hint**: you can host agent on A100 server and then have agent do web navigation on another os. On that os, it is not necessary to have a GPU, just install the following dependencies to run WebVoyager and send requests to the server: .
+**Hint**: 1) You can use an OS with an A100 GPU to host the agent and perform evaluation. 2) You can also host an agent on an A100 server, then build web environment on another OS. In that OS, there is no requirement for a GPU or Torch installation; just run WebVoyager and send requests to the server.
 
-## Summary of Released Models and Data
+**Full Requirements**: If you wish to proceed with training, you will need to install additional dependencies to support Megatron's training. We provide a comprehensive list of requirements in `training/megatron_requirements.txt` that you can refer to for setting up the environment.
+
+If you only need to collect GPT-4o-based trajectories, please directly refer to [WebVoyager](https://github.com/MinorJerry/WebVoyager) framework.
+
+## Summary of Released Models
 | Stage    | HF ckpt      |  
 | -------- | ------------ | 
-| IL       | [OpenWebVoyager-IL]()      |  
-| Optim-1  | [OpenWebVoyager-opt-1]()   | 
-| Optim-2  | [OpenWebVoyager-opt-2]()   | 
-| Optim-3  | [OpenWebVoyager-opt-3]()   | 
+| IL       | [OpenWebVoyager-IL](https://huggingface.co/OpenWebVoyager/OpenWebVoyager-IL)      |  
+| Optim-1  | [OpenWebVoyager-opt-1](https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-1)   | 
+| Optim-2  | [OpenWebVoyager-opt-2](https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-2)   | 
+| Optim-3  | [OpenWebVoyager-opt-3](https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-3)   | 
 
 
 ## Host Agent
@@ -61,7 +64,7 @@ We recommend to Host Agent to perform exploration or evaluation.
 Place the HF checkpoint at a specified path. Refer to `server/hf_online_server.py` to host the agent:
 ```bash
 cd server/
-python hf_online_server.py --device your_device --model_name_or_path your_hf_checkpoint --port 8080
+python hf_online_server.py --model_name_or_path your_hf_checkpoint --port 8080
 ```
 
 To increase efficiency, host multiple agents on different GPUs using separate ports. On your computer, you can run 2-3 test programs (2-3 browsers are ok).
