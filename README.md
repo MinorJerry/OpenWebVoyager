@@ -55,7 +55,7 @@ If you only need to collect GPT-4o-based trajectories, please directly refer to 
 | Optim-3  | [OpenWebVoyager-opt-3](https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-3)   | 
 
 
-## Host Agent
+## Quick Start
 
 We recommend to Host Agent to perform exploration or evaluation.
 
@@ -66,8 +66,6 @@ Place the HF checkpoint at a specified path. Refer to `server/hf_online_server.p
 cd server/
 python hf_online_server.py --model_name_or_path your_hf_checkpoint --port 8080
 ```
-
-To increase efficiency, host multiple agents on different GPUs using separate ports. On your computer, you can run 2-3 test programs (2-3 browsers are ok).
 
 Use the `WebVoyager/run_localhost.sh` script to collect test trajectories. Please specify your host ip.
 ```
@@ -80,6 +78,8 @@ nohup python -u run.py \
     --output_dir ./results_example_test \
     --api_localhost http://xxx.xxx.xxx.xxx:8080/predict > results_example_test.log &
 ```
+
+**Hint**: To increase efficiency, you can also host multiple agents on different GPUs using separate ports. On your computer, you can run 2-3 test programs (2-3 browsers are ok).
 
 ### Run GPT-4o Based Auto Evaluation
 
