@@ -104,12 +104,12 @@ This process requires both a hosted agent and GPT-4o for auto evaluation, which 
 ### Convert Data to Training Format
 
 The training data follows the format below:
-```json
+```bash
 [
   {
-    "id": "...",  // str, a unique identifier for the data item.
-    "images": ["..."],  // list[str], screenshots used in the data item (up to 3), represented by their filenames.
-    "conversations": [  // list[dict], a sequence of conversations where the number of "<image>" tokens matches the length of the "images" list.
+    "id": "...",  # str, a unique identifier for the data item.
+    "images": ["..."],  # list[str], screenshots used in the data item (up to 3), represented by their filenames.
+    "conversations": [  # list[dict], a sequence of conversations where the number of "<image>" tokens matches the length of the "images" list.
       {
         "from": "human",
         "value": "..."
