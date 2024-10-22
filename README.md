@@ -34,8 +34,8 @@ This repository contains the data, implementation, and models for our paper [Ope
 
 The dependencies are specified in detail in `requirements.txt`. To set up the environment for training and hosting models on **A100 GPU**, use the following commands:
   ```bash
-    conda create -n wave python=3.10.14
-    conda activate wave
+    conda create -n openwebv python=3.10.14
+    conda activate openwebv
     pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu118
     pip install -r requirements.txt
   ```
