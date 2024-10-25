@@ -15,11 +15,13 @@
 
 ## Introduction
 
-This repository contains the data, implementation, and models for our paper [OpenWebVoyager](). OpenWebVoyager is an innovative framework for building multimodal web agents through iterative real-world exploration, feedback, and optimization.
+This repository contains the data, implementation, and models for our paper [OpenWebVoyager](). OpenWebVoyager is an innovative framework for building multimodal web agents through iterative real-world exploration, feedback, and optimization. 
 
 - **Multimodal and Real-World**: We utilize the [WebVoyager](https://arxiv.org/abs/2401.13919) framework to collect multimodal trajectories.
 - **Imitation Learning**: OpenWebVoyager acquires basic web navigation skills via Imitation Learning (IL) from GPT-4o.
 - **Iterative Exploration-Feedback-Optimization**: OpenWebVoyager conducts real-world exploration to gather new multimodal trajectories, with GPT-4o providing automatic feedback. Successful trajectories are retained for further optimization.
+
+The real-world web navigation framework is based on [WebVoyager](https://github.com/MinorJerry/WebVoyager), our training code is based on [Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch) and [Megatron-LM](https://github.com/NVIDIA/Megatron-LM), and we would like to thank their contributors for the effort.
 
 ### Full Process
 
